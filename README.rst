@@ -7,4 +7,19 @@ Installation
 * Configure your links in the links.html folder inside **cidadania-black**
 * Set your GitHub link (if available) in theme.conf
 
-And that's it! 
+And that's it!
+
+Demonstration
+=============
+
+There is a project using this theme at:
+`e-cidadania documentation <http://e-cidadania.readthedocs.org/>`_
+
+Screenshots
+===========
+
+Three screenshots from de demonstration: index page, page with code, page created with autodoc
+
+.. image:: screenshots/shot01.png
+.. image:: screenshots/shot02.png
+.. image:: screenshots/shot03.png
