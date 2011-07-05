@@ -20,6 +20,6 @@ Screenshots
 
 Three screenshots from de demonstration: index page, page with code, page created with autodoc
 
-.. image:: http://github.com/oscarcp/cidadania-black/tree/master/screenshots/shot01.png
-.. image:: http://github.com/oscarcp/cidadania-black/tree/master/screenshots/shot02.png
-.. image:: http://github.com/oscarcp/cidadania-black/tree/master/screenshots/shot03.png
+.. image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot01.png
+.. image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot02.png
+.. image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot03.png
