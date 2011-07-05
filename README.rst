@@ -20,6 +20,17 @@ Screenshots
 
 Three screenshots from de demonstration: index page, page with code, page created with autodoc
 
-.. image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot01.png
-.. image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot02.png
-.. image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot03.png
+|Screenshot 1|_
+
+.. |Screenshot 1| image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot01-mini.png
+.. _Screenshot 1: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot01.png
+
+|Screenshot 2|_
+
+.. |Screenshot 2| image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot02-mini.png
+.. _Screenshot 2: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot02.png
+
+|Screenshot 3|_
+
+.. |Screenshot 3| image:: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot03-mini.png
+.. _Screenshot 3: http://github.com/oscarcp/cidadania-black/raw/master/screenshots/shot03.png
