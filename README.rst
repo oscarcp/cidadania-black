@@ -4,7 +4,7 @@ Installation
 * Copy the **cidadania-black** folder to the **_static** folder inside your sphinx
   documentation
 * Set **html_theme** in your *conf.py* to "cidadania-black"
-* Edit **teme.conf** and set your options:
+* Edit **theme.conf** and set your options:
 
   **showfooter** (true/false)
     Activate footer. This is the main difference between KR-Small theme and
@@ -25,6 +25,9 @@ Installation
 * Configure your links in the **links.html** file inside **cidadania-black**
 * Configure your information in the **info.html** file inside
   **cidadania-black**
+* If your project has a logo, you can put it inside the **_static** folder
+  with the name **logo.png** or specify your own route to the logo in the
+  **index_logo** variable.
 
 And now you're ready to rock!
 
@@ -37,7 +40,7 @@ There is a project using this theme at:
 Screenshots
 ===========
 
-Three screenshots from de demonstration: index page, page with code, page created with autodoc
+Three screenshots from the demonstration: index page, page with code, page created with autodoc
 
 |Screenshot 1|_
 
