@@ -1,13 +1,32 @@
 Installation
 ============
 
-* Copy the **cidadania-black** folder to your **_static** folder inside sphinx
+* Copy the **cidadania-black** folder to the **_static** folder inside your sphinx
   documentation
 * Set **html_theme** in your *conf.py* to "cidadania-black"
-* Configure your links in the links.html folder inside **cidadania-black**
-* Set your GitHub link (if available) in theme.conf
+* Edit **teme.conf** and set your options:
 
-And that's it!
+  **showfooter(**boolean**)**
+    Activate footer. This is the main difference between KR-Small theme and
+    cidadania-black. Value can be *true* or *false*
+
+  **showlinks(**boolean**)**
+    Show the links widget in the footer. Value can be *true* or *false*.
+
+  **showinfo(**boolean**)**
+    Show the *about* information widget in the footer. Deactivating it will
+    also deactivate the "Created with Sphinx" advertise. Value can be *true*
+    or *false*
+
+  **github_url(string)**
+    Activates the top-right corner "Fork me on GitHub". If this variable is
+    empty, the corner image will not be shown.
+
+* Configure your links in the **links.html** file inside **cidadania-black**
+* Configure your information in the **info.html** file inside
+  **cidadania-black**
+
+And now you're ready to rock!
 
 Demonstration
 =============
